@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034435989861",
+    "project_id": "senethhealingfoods",
+    "storage_bucket": "senethhealingfoods.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034435989861:android:99f42570f56c7ed7e7918c",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2bI7Ufqrn6CRRsLLVWcZ2ONP7l1QAov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034435989861:android:00f2270fc22459bfe7918c",
+        "android_client_info": {
+          "package_name": "com.example.senethhealingfoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2bI7Ufqrn6CRRsLLVWcZ2ONP7l1QAov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
